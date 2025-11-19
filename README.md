@@ -92,8 +92,3 @@ jupyter notebook MLZOOMCAMP_MIDTERM/JAMB_score_pred.ipynb
 - To contribute: fork the repo, add improvements (models, visualizations, UI), and open a pull request. Include tests or example notebooks when possible.
 
 ---
-
-If you want, I can also:
-- generate a `requirements.txt` from the notebook imports,
-- add a minimal Streamlit demo for student-facing predictions.
-

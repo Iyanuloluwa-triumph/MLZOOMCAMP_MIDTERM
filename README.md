@@ -89,4 +89,10 @@ jupyter notebook MLZOOMCAMP_MIDTERM/JAMB_score_pred.ipynb
 - Expand features with subject-wise study breakdowns, historical performance, or time-series tracking for trend-based recommendations.
 
 ## Contributing
+<<<<<<< HEAD
 - To contribute: fork the repo, add improvements (models, visualizations, UI), and open a pull request. Include tests or example notebooks when possible
+=======
+- To contribute: fork the repo, add improvements (models, visualizations, UI), and open a pull request. Include tests or example notebooks when possible.
+
+---
+>>>>>>> 939a6b544cc84cbf53f9d536f7352cd7926e1167

@@ -89,11 +89,4 @@ jupyter notebook MLZOOMCAMP_MIDTERM/JAMB_score_pred.ipynb
 - Expand features with subject-wise study breakdowns, historical performance, or time-series tracking for trend-based recommendations.
 
 ## Contributing
-- To contribute: fork the repo, add improvements (models, visualizations, UI), and open a pull request. Include tests or example notebooks when possible.
-
----
-
-If you want, I can also:
-- generate a `requirements.txt` from the notebook imports,
-- add a minimal Streamlit demo for student-facing predictions.
-
+- To contribute: fork the repo, add improvements (models, visualizations, UI), and open a pull request. Include tests or example notebooks when possible
